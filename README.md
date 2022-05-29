@@ -16,4 +16,4 @@
 <img width="512" alt="Снимок экрана 2022-05-29 в 18 26 38" src="https://user-images.githubusercontent.com/100344816/170870391-132f6a04-7782-48b2-900c-be59144acfba.png">
 <img width="513" alt="Снимок экрана 2022-05-29 в 18 27 05" src="https://user-images.githubusercontent.com/100344816/170870393-1ab3c07b-1aa4-4b81-b4bd-cceb3b04c5b5.png">
 
-P.S. The code is linted and I have an extra line at the end of the code but in github it doesn't show 
+*P.S. The code is linted and I have an extra line at the end of the code but in github it doesn't show*
