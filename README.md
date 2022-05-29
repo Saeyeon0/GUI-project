@@ -6,8 +6,10 @@
 2) You can open any new file by clicking a button "Open File".
 <img width="1102" alt="Снимок экрана 2022-05-29 в 18 24 22" src="https://user-images.githubusercontent.com/100344816/170869351-8f5adf41-2c45-49fe-ad16-d5c0d6aadeeb.png">
 
-3) Also by clicking a button below previous one, you can read an additional information about Ala-Too International University
+3) Also by clicking a button below previous one, you can read an additional information about Ala-Too International University.
 <img width="604" alt="Снимок экрана 2022-05-29 в 18 25 05" src="https://user-images.githubusercontent.com/100344816/170870116-3a519692-1630-4759-bc09-74def109251f.png">
 
 4) And if you want, you can choose a color for an image!
+<img width="579" alt="Снимок экрана 2022-05-29 в 18 26 01" src="https://user-images.githubusercontent.com/100344816/170870282-5fe523cc-1a46-4231-8a65-e47c7ee697fd.png">
 
+5) On menu bar, you can save file, also open a file, quit program or edit it.
